@@ -1,0 +1,10 @@
+Starting debug test...
+Attempting to import OpenAI service...
+Import succeeded. Type: object
+Has default? Yes
+Service type: object
+Keys: client
+generateResponse exists? true
+File exists? true
+File size: 32360
+Debug test complete.
